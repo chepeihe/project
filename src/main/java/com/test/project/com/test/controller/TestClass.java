@@ -7,18 +7,10 @@ package com.test.project.com.test.controller;
 public class TestClass {
 
     public static void main(String[] args) {
-        System.out.println("打印");
-        System.out.println("打印");
-        System.out.println("打印");
-        System.out.println("打印");
-        System.out.println("打印");
-        System.out.println("打印");
-        System.out.println("打印");
-        System.out.println("打印");
-        System.out.println("打印");
-        System.out.println("打印");
-        System.out.println("打印");
-        System.out.println("打印");
+
+        Integer aa = 2 >>> 3;
+
+        System.out.println(aa);
     }
 
 }
